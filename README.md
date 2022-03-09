@@ -1,2 +1,9 @@
-# androidproject
-These are the Java files and XML files I was responsible for my group software engineering project at school.
+# Desription
+Team project from school using Android Studio. Only the files i contributed to.
+
+# What I learned
+* How to use Androind Studio
+* Java fundamentals
+* XML fundamentals
+* UI design and navigation 
+
